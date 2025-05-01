@@ -1,0 +1,11 @@
+Data Input:
+We have the data input with PokerBench, Online poker data.
+What is the optimized approach to train them?
+which first.
+
+
+
+
+Performance:
+How to systematic test the perfromance of the bot?
+
